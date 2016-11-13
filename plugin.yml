@@ -1,0 +1,4 @@
+name: GoodGamingLib
+main: me.gush.goodgaming.lib.GoodGamingLib
+version: 0.7.1
+softdepend: [PrisonMines]
